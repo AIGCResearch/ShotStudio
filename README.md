@@ -4,7 +4,7 @@
  <a href="https://shotstudio.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
   <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/static/v1?label=Tech%20Report&message=Arxiv&color=red"></a> &ensp;
 
-![ShotStudio Overview](assets/logo1.png)
+![ShotStudio Overview](assets/teaser.png)
 
 <p><b>ShotStudio</b> is an open-source comprehensive framework for multi-modal filmmaking, based on open-source methods, closed-source API, and our self-developed works.</p>
 
