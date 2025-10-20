@@ -13,5 +13,6 @@
 <p><b>ShotStudio</b> supports story and script writing, character/scene/action design, storyboard creation, video clip generation, VFX, and audio design (bgm, dubbing and sound).</p>
 
 ## 🚩 Launch Planning & Latest Updates
+- [ ] **[2026]** 🚀 **ShotStudio-v1** code release.
 - [ ] **[2025.10～2026]** 🚀 Ongoing self-developed stage.
 - [x] **[2025.10]** 🚀 Initial project launch.
